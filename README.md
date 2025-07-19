@@ -109,6 +109,4 @@ MIT License - Sử dụng tự do cho mục đích cá nhân và thương mại.
 3. Commit changes
 4. Push và tạo Pull Request
 
----
 
-**Lưu ý**: Đây là bản clone của KLTTS AI với mục đích học tập và sử dụng cá nhân.
